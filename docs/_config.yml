@@ -21,11 +21,10 @@
 title: Bionexus.AI
 email: eric.a.wilson.comp@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This is a general information site for Bionexus.AI.  We are a group of researchers and developers working on AI and ML projects.
+  Bionexus.AI is a stealth biotech startup building physics-aware AI systems for molecular discovery, immunology, protein docking, and computational biophysics workflows.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+github_username: eawilson-CompBio
 
 # Build settings
 theme: minima
