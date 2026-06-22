@@ -1,7 +1,7 @@
 # People
 
 Eric Wilson -
-CEO/Founder - principal devloper of electrostatics IP. - Eric has a PhD in biochemsitry and completed his post doctoral training at mount sinai studying applying machine learning to the immune system to better undertand autoimmunity and cancer
+Founder - principal devloper of electrostatics IP. - Eric has a PhD in biochemsitry and completed his post doctoral training at mount sinai studying applying machine learning to the immune system to better undertand autoimmunity and cancer
 
     Physics-based simulations
     Large Langauge models
@@ -9,7 +9,6 @@ CEO/Founder - principal devloper of electrostatics IP. - Eric has a PhD in bioch
     Immunology
 
 Chun Kit Chan
-CTO
 
     Background:
 
@@ -30,9 +29,9 @@ CTO
     Incorporating cross-domain technology in our IPs and products.
 
 Abhishek singharoy
-CSO/founder
+Founder
 
-    Abhishek Singharoy is an Associate Professor in the School of Molecular
+Abhishek Singharoy is an Associate Professor in the School of Molecular
 
 Sciences and Biodesign Institute at Arizona State University. He is an expert in molecular modeling and
 simulations with over 50 publications in the field. He is a co-inventor on the US patent application
@@ -49,7 +48,6 @@ therapeutics within seconds with deep learning solutions. He went through the NS
 Pacific Hub Regional Course for initial customer discovery and market identification.
 
 Abhishek Ghosal
-CCO
 
 Industry Mentor (IM): Abhishek Ghosal is working as Principal Scientist for product development in
 clinical space. He has a Ph.D in Molecular MicroBiology followed by a postdoctoral research experience
@@ -66,5 +64,12 @@ market readiness. The input from the prospective customer bases will help to gai
 product to market. The blend of scientific background and the experiences in industry for almost l0 years
 would be an important addition for Golilock.AI.
 
-Patrick Jiang
-principal ML engineer
+<!-- Patrick Jiang
+principal ML engineer -->
+
+Karen Anderson
+Founder
+
+Dr. Karen Anderson is a tumor biologist who studies how the immune system can be harnessed to detect and alter cancer development. For example, cancer causes the body to produce specific antibodies, which she and her research team can use as biomarkers to detect cancer in early stages of its growth. They use the alterations in immune response to develop new biomarkers for breast, ovarian, pancreatic and HPV-related cancers.
+
+Dr. Anderson and her collaborators use molecular techniques, such as in vitro protein arrays, next-gen sequencing, and high-throughput functional genomics, to study early alterations in cancer development. They examine the abnormal characteristics of cancer to identify novel targets for cancer treatment and vaccine development.
