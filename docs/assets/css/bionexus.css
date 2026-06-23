@@ -544,6 +544,19 @@ h3 {
   background: rgba(255, 255, 255, 0.04);
 }
 
+.proof-grid .proof-logo {
+  place-items: center;
+  background: rgba(255, 255, 255, 0.94);
+}
+
+.proof-logo img {
+  display: block;
+  width: 100%;
+  max-width: 230px;
+  max-height: 84px;
+  object-fit: contain;
+}
+
 .proof-grid strong {
   color: var(--teal);
   font-size: 42px;
