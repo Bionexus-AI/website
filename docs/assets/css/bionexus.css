@@ -248,7 +248,7 @@ h3 {
 }
 
 .metric-grid div {
-  min-height: 92px;
+  min-height: 116px;
   padding: 16px;
   background: rgba(7, 16, 20, 0.72);
 }
@@ -257,6 +257,14 @@ h3 {
   display: block;
   margin-top: 8px;
   font-size: 20px;
+  line-height: 1.1;
+}
+
+.metric-grid p {
+  margin: 8px 0 0;
+  color: var(--muted);
+  font-size: 12px;
+  line-height: 1.35;
 }
 
 .worked-with {
