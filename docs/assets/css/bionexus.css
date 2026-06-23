@@ -287,29 +287,37 @@ h3 {
 .logo-grid {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
-  gap: 1px;
-  background: var(--line);
-  border: 1px solid var(--line);
+  gap: 14px;
 }
 
 .logo-card {
   display: grid;
   place-items: center;
-  min-height: 126px;
-  padding: 22px;
-  background: rgba(255, 255, 255, 0.96);
+  min-height: 104px;
+  padding: 18px 22px;
+  border: 1px solid var(--line);
+  background: rgba(255, 255, 255, 0.04);
 }
 
 .logo-card img {
   display: block;
-  width: 100%;
-  max-width: 190px;
-  max-height: 76px;
+  width: auto;
   object-fit: contain;
 }
 
-.logo-card-wide img {
-  max-width: 230px;
+.logo-square {
+  max-width: 74px;
+  max-height: 74px;
+}
+
+.logo-mayo {
+  max-width: 78px;
+  max-height: 78px;
+}
+
+.logo-wide {
+  max-width: 172px;
+  max-height: 72px;
 }
 
 .section {
