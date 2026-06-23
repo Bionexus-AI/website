@@ -15,12 +15,5 @@ Current public-facing pillars:
 - Pollen: multi-resolution molecular simulation for association likelihood, epitope identification, competitive binding, concentration-aware analysis, conformational change, and hybrid physics workflows.
 - Consulting and implementation: cloud, HPC, machine learning, and computational biophysics workflow engineering.
 
-We are currently operating in stealth. Replace the placeholders below as public messaging is approved.
-
-## Public placeholders
-
-- Company boilerplate: [Add approved description]
-- Partner logos: [Add disclosure-approved partners]
-- Lead program: [Add program or market focus]
-- Validation: [Add benchmark, publication, or customer proof]
-- Contact: [Add public inbox, intake form, or calendar link]
+We are currently operating in stealth and selectively engaging collaborators
+around difficult molecular modeling and AI workflow problems.
